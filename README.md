@@ -1,21 +1,23 @@
-## **Brian Polasek**
+# **Brian Polasek**
+
 [LinkedIn][linkedin_url]
+
 [Github][github_url]
 ---
-#### EDUCATION
+### EDUCATION
 ```Bachelor of Science``` > *May 2019*
 
 **Texas A&M University** | College Station, Texas
 * *Major:* Computer Engineering, *Minors:* Cybersecurity, Mathematics
 * *In Major GPA:* 3.14, *Overall GPA:* 3.084
 
-#### SKILLS
+### SKILLS
 * **Programming Languages:** C++, Java, Python, Golang, Javascript, Matlab/Octave, R, C#, Haskell
 * **Software:** Git, Gradle, TensorFlow, Angular, jQuery, TestNG, AWS, Docker, .NET, SQL, JSON, AutoCAD
 * **Project Development & CI/CD:** Agile, Scrum, Waterfall, Gira, Gitlab, Jenkins, Gantt
 * **Systems:** UNIX/Linux, Windows, macOS
 
-#### WORK EXPERIENCE
+### WORK EXPERIENCE
 ```Software Engineer``` > *May 2019 - Present*
 
 **Tempset Controls** | Cedar Park, Texas
@@ -25,22 +27,25 @@
 * *Documentation:* Created documents describing custom API uses and modifications.
 * *Web Design:* Programmed a new comanpy website and set it up on a dedicated server.
 
+
 ```System Integrator Intern``` > *June 2018 - August 2018*
 
 **Tempset Controls** | Cedar Park, Texas
 * Created custom solutions for customer issues and provided technical support. 
+
 
 ```Hardware Infrastructure Intern``` > *June 2017 - August 2017*
 
 **Tempset Controls** | Cedar Park, Texas
 * Designed component layouts in AutoCAD and combined hardware to match custom solutions.
 
+
 ```Ranch Hand``` > *August 2011 - June 2013*
 
 **Frank Farmular** | Taylor, Texas
 * Operated farming machinery, welded and constructed fences, ran cattle.
 
-#### PROJECTS
+### PROJECTS
 ```Home Projects```
 * *Rasperry Pi:* VPN Server, Security Camera, Google Voice API, Retro Pi, Pi Hole
 * *Arduino:* Room lighting controls, Alarm Clock, Personal Weather Station
@@ -63,10 +68,10 @@
 ```Data Server``` > *Fall 2017*
 * Programmed a client-server model for medical data that communicated across processes with named pipes, used bounded buffers to control data flow and exported each client's data in histogram format to separate CSV files.
 
-#### LEADERSHIP
+### LEADERSHIP
 ```Team Leader for Senior Design``` > *Fall 2018 - Spring 2019*
 
-```Scrum Manager for Java Mulitplayer Mancala Game Project`` > *Fall 2017*
+```Scrum Manager for Java Mulitplayer Mancala Game Project``` > *Fall 2017*
 
 ```Campaign Advisor for Yell Leader``` > *Spring 2015*
 
