@@ -3,7 +3,12 @@
 [LinkedIn][linkedin_url]
 
 [Github][github_url]
+
 ---
+### ABOUT
+* Software engineer with a strong foundation in OOP, DSA and cybersecurity with exposure to cloud computing and container orchestration. 
+* I'm on a mission to improve lives and accelerate our path to a better future by servince others, developing inovative technology and solving challenging problems.
+
 ### EDUCATION
 ```Bachelor of Science``` > *May 2019*
 
@@ -12,7 +17,7 @@
 * *In Major GPA:* 3.14, *Overall GPA:* 3.084
 
 ### SKILLS
-* **Programming Languages:** C++, Java, Python, Golang, Javascript, Matlab/Octave, R, C#, Haskell
+* **Programming Languages:** *Advanced* - C++, Java, Python, Golang, Javascript, *Intermediate* - R, C#, Haskell
 * **Software:** Git, Gradle, TensorFlow, Angular, jQuery, TestNG, AWS, Docker, .NET, SQL, JSON, AutoCAD
 * **Project Development & CI/CD:** Agile, Scrum, Waterfall, Gira, Gitlab, Jenkins, Gantt
 * **Systems:** UNIX/Linux, Windows, macOS
@@ -21,7 +26,7 @@
 ```Software Engineer``` > *May 2019 - Present*
 
 **Tempset Controls** | Cedar Park, Texas
-* Developed custom cross-platform IoT, HVAC and lighting control software, libraries and graphics within the Niagara Framework using Java, Gradle, SQL and UNIX Shell.
+* Backend development using Gradle for building, TestNG for unit testing and Intellij for creating custom Java modules and manipulating SQL data for cross-platform building automation software.
 * *Automation:* Developed and maintained custom Jar files that automated code production.
 * *Migration:* Ported Windows application installer of company software over to Linux
 * *Documentation:* Created documents describing custom API uses and modifications.
