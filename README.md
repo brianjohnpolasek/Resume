@@ -18,7 +18,7 @@
 
 ### SKILLS
 * **Programming Languages:** *Advanced* - C++, Java, Python, Golang, Javascript, *Intermediate* - R, C#, Haskell
-* **Software:** Git, Gradle, TensorFlow, Angular, jQuery, TestNG, AWS, Docker, .NET, SQL, JSON, AutoCAD
+* **Software:** *General* - Git, SQL, Vim; *Java* - Gradle, Spring, TestNG, IntelliJ; *Python* - TensorFlow, PyTorce, Requests, Beautiful Soup, Pandas, PDB; *Web* - Node, Angular, jQuery, REST; *Cloud* - AWS, Docker
 * **Project Development & CI/CD:** Agile, Scrum, Waterfall, Gira, Gitlab, Jenkins, Gantt
 * **Systems:** UNIX/Linux, Windows, macOS
 
