@@ -18,8 +18,11 @@
 
 ### SKILLS
 * **Programming Languages:** *Advanced* - C++, Java, Python, Golang, Javascript, *Intermediate* - R, C#, Haskell
-* **Software:** *General* - Git, SQL, Vim; *Java* - Gradle, Spring, TestNG, IntelliJ; *Python* - TensorFlow, PyTorce, Requests, Beautiful Soup, Pandas, PDB; *Web* - Node, Angular, jQuery, REST; *Cloud* - AWS, Docker
-* **Project Development & CI/CD:** Agile, Scrum, Waterfall, Gira, Gitlab, Jenkins, Gantt
+
+* **Software:** *General* - Git, Vim, Postman, Regex; *Java* - Gradle, Spring Boot, TestNG, SDKMAN, IntelliJ; *Python* - TensorFlow, PyTorce, Requests, Beautiful Soup, Pandas, PDB; *Web* - Node, Angular, jQuery, REST, Bootstrap; *Database* - MySQL, MongoDB; *Cloud* - AWS, GCP; *Containerization* - Docker
+
+* **Project Development:** *Methodologies* - Agile, Scrum, Kanban; *CI/CD* - Jira, Girtlab, Github Actions, Jenkins
+
 * **Systems:** UNIX/Linux, Windows, macOS
 
 ### WORK EXPERIENCE
