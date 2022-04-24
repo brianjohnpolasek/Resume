@@ -65,7 +65,7 @@ have a strong foundation in OOP, DSA, microservices and cybersecurity.
 **Tempset Controls** | Cedar Park, Texas
 * Designed component layouts in AutoCAD and combined hardware to match custom solutions.
 
-
+<p>&nbsp;</p>
 
 ```Ranch Hand``` > *August 2011 - June 2013*
 
