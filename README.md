@@ -6,8 +6,9 @@
 
 ---
 ### ABOUT
-* Software engineer with a strong foundation in OOP, DSA and cybersecurity with exposure to cloud computing and container orchestration. 
-* I'm on a mission to improve lives and accelerate our path to a better future by servince others, developing inovative technology and solving challenging problems.
+I’m a software engineer on a mission to improve lives and accelerate our path to a better future through service to
+others, developing innovative technology, solving challenging problems, and collaborating with great minds. I
+have a strong foundation in OOP, DSA, microservices and cybersecurity.
 
 ### EDUCATION
 ```Bachelor of Science``` > *May 2019*
@@ -17,16 +18,26 @@
 * *In Major GPA:* 3.14, *Overall GPA:* 3.084
 
 ### SKILLS
-* **Programming Languages:** *Advanced* - C++, Java, Python, Golang, Javascript, *Intermediate* - R, C#, Haskell
+* **Programming Languages:** *Advanced* - Java, Python, Javascript, Bash; *Intermediate* - C++, C#, Golang
 
-* **Software:** *General* - Git, Vim, Postman, Regex; *Java* - Gradle, Spring Boot, TestNG, SDKMAN, IntelliJ; *Python* - TensorFlow, PyTorce, Requests, Beautiful Soup, Pandas, PDB; *Web* - Node, Angular, jQuery, REST, Bootstrap; *Database* - MySQL, MongoDB; *Cloud* - AWS, GCP; *Containerization* - Docker
+* **Backend:** Spring Boot, Gradle/Maven, JUnit/TestNG, Django, Node, PostgreSQL, MySQL, MongoDB, Redis
 
-* **Project Development:** *Methodologies* - Agile, Scrum, Kanban; *CI/CD* - Jira, Girtlab, Github Actions, Jenkins
+* **Frontend:** npm, React, Angular,Bootstrap, kQuery, Redux, Webpack
 
-* **Systems:** UNIX/Linux, Windows, macOS
+* **CI/CD:** Git, Jenkins, Kubernetes, Docker
+
+* **Systems:** UNIX (Linux & macOS), Windows, AWS, GCP
 
 ### WORK EXPERIENCE
-```Software Engineer``` > *May 2019 - Present*
+```Software Engineer``` > *August 2021 - March 2022*
+
+**FICO** | Austin, Texas
+* Developed microservices as a backend Java developer for the FICO Studio platform.
+* Created new mission-critical API for dynamically retrieving and filtering solutions.
+* Updated modules from the existing code base to adhere to new API standards.
+
+
+```Software Engineer``` > *May 2019 - August 2021*
 
 **Tempset Controls** | Cedar Park, Texas
 * Backend development using Gradle for building, TestNG for unit testing and Intellij for creating custom Java modules and manipulating SQL data for cross-platform building automation software.
