@@ -10,12 +10,16 @@ I’m a software engineer on a mission to improve lives and accelerate our path 
 others, developing innovative technology, solving challenging problems, and collaborating with great minds. I
 have a strong foundation in OOP, DSA, microservices and cybersecurity.
 
+
+
 ### EDUCATION
 ```Bachelor of Science``` > *May 2019*
 
 **Texas A&M University** | College Station, Texas
 * *Major:* Computer Engineering, *Minors:* Cybersecurity, Mathematics
 * *In Major GPA:* 3.14, *Overall GPA:* 3.084
+
+
 
 ### SKILLS
 * **Programming Languages:** *Advanced* - Java, Python, Javascript, Bash; *Intermediate* - C++, C#, Golang
@@ -28,6 +32,8 @@ have a strong foundation in OOP, DSA, microservices and cybersecurity.
 
 * **Systems:** UNIX (Linux & macOS), Windows, AWS, GCP
 
+
+
 ### WORK EXPERIENCE
 ```Software Engineer``` > *August 2021 - March 2022*
 
@@ -35,6 +41,7 @@ have a strong foundation in OOP, DSA, microservices and cybersecurity.
 * Developed microservices as a backend Java developer for the FICO Studio platform.
 * Created new mission-critical API for dynamically retrieving and filtering solutions.
 * Updated modules from the existing code base to adhere to new API standards.
+
 
 
 ```Software Engineer``` > *May 2019 - August 2021*
@@ -59,10 +66,13 @@ have a strong foundation in OOP, DSA, microservices and cybersecurity.
 * Designed component layouts in AutoCAD and combined hardware to match custom solutions.
 
 
+
 ```Ranch Hand``` > *August 2011 - June 2013*
 
 **Frank Farmular** | Taylor, Texas
 * Operated farming machinery, welded and constructed fences, ran cattle.
+
+
 
 ### PROJECTS
 ```Home Projects```
@@ -86,6 +96,8 @@ have a strong foundation in OOP, DSA, microservices and cybersecurity.
 
 ```Data Server``` > *Fall 2017*
 * Programmed a client-server model for medical data that communicated across processes with named pipes, used bounded buffers to control data flow and exported each client's data in histogram format to separate CSV files.
+
+
 
 ### LEADERSHIP
 ```Team Leader for Senior Design``` > *Fall 2018 - Spring 2019*
